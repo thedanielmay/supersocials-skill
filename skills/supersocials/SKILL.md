@@ -26,12 +26,26 @@ If ANY are missing, stop and say:
 > "SuperSocials works best with its full skill set. The following skills are missing from this session:
 > [list the missing ones]
 >
-> To install them:
-> - `topic-intel`, `company-intel`, `humanize` — check your superpowers marketplace or install via your plugin manager
-> - `expert-panel` — `/plugin install expert-panel@thedanielmay`
-> - `elements-of-style` — `/plugin install elements-of-style@superpowers-marketplace`
+> Install them using either method below, then restart your session:
 >
-> Restart your session after installing, then try again.
+> **`topic-intel`**
+> - `npx skills add thedanielmay/topic-intel-skill`
+> - `/plugin install topic-intel@thedanielmay`
+>
+> **`company-intel`**
+> - `npx skills add thedanielmay/company-intel-skill`
+> - `/plugin install company-intel@thedanielmay`
+>
+> **`expert-panel`**
+> - `npx skills add thedanielmay/expert-panel-skill`
+> - `/plugin install expert-panel@thedanielmay`
+>
+> **`humanize`**
+> - `npx skills add humanizerai/agent-skills@humanize`
+>
+> **`elements-of-style`**
+> - `npx skills add obra/the-elements-of-style@writing-clearly-and-concisely`
+>
 > Or type **'continue anyway'** to proceed — steps that need missing skills will be skipped."
 
 If the user types 'continue anyway', note which skills are unavailable and proceed. When a missing skill would normally be invoked, skip that step and note it inline: "(skipped — `humanize` not available)".
