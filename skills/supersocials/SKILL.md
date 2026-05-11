@@ -41,7 +41,7 @@ If ANY are missing, stop and say:
 > - `/plugin install expert-panel@thedanielmay`
 >
 > **`humanize`**
-> - `npx skills add humanizerai/agent-skills@humanize`
+> - `/plugin install memstack@cwinvestments-memstack`
 >
 > **`elements-of-style`**
 > - `npx skills add obra/the-elements-of-style@writing-clearly-and-concisely`
