@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "Social Media",
+  "date": "May 2026",
+  "abstract": "Hub skill for SuperSocials. Detects intent (vague vs specific), collects a brand brief in guided mode, and routes to the right module: strategy, write, script, calendar, brief, or analyse. Chains modules end-to-end or handles standalone jobs."
+}
