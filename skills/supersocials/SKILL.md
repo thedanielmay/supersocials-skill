@@ -11,6 +11,33 @@ End-to-end social media skill. Covers the full lifecycle from vague idea to poli
 
 Instagram · TikTok · LinkedIn · X/Twitter · YouTube · Facebook · Pinterest · Threads · Bluesky
 
+## Dependency Check
+
+Before doing anything else, check whether the following skills appear in the available skill list for this session:
+
+- `topic-intel`
+- `company-intel`
+- `expert-panel`
+- `humanize`
+- `elements-of-style`
+
+If ANY are missing, stop and say:
+
+> "SuperSocials works best with its full skill set. The following skills are missing from this session:
+> [list the missing ones]
+>
+> To install them:
+> - `topic-intel`, `company-intel`, `humanize` — check your superpowers marketplace or install via your plugin manager
+> - `expert-panel` — `/plugin install expert-panel@thedanielmay`
+> - `elements-of-style` — `/plugin install elements-of-style@superpowers-marketplace`
+>
+> Restart your session after installing, then try again.
+> Or type **'continue anyway'** to proceed — steps that need missing skills will be skipped."
+
+If the user types 'continue anyway', note which skills are unavailable and proceed. When a missing skill would normally be invoked, skip that step and note it inline: "(skipped — `humanize` not available)".
+
+If all skills are present, proceed silently without mentioning the check.
+
 ## How to Start
 
 Read the user's input and route without asking for a menu selection:
