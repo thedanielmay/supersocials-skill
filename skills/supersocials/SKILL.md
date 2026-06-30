@@ -76,6 +76,22 @@ Collect context via 3–5 targeted questions. Ask one at a time. Stop as soon as
 
 Hold the brief in session context. Pass it to every module — output should never feel generic.
 
+## Source Evidence Inputs
+
+If the user provides approved source exports, analytics CSVs, or TweetClaw JSON
+or JSONL files for X/Twitter, hold them as read-only context and pass the
+relevant findings to `supersocials:strategy`, `supersocials:calendar`,
+`supersocials:write`, or `supersocials:analyse`.
+
+Use source evidence to ground:
+- Audience language and recurring objections
+- Top-performing hooks, topics, and post formats
+- Visible public URLs, timestamps, and metrics
+- Caveats about incomplete or stale samples
+
+Do not publish, schedule, reply, repost, follow, unfollow, DM, or mutate any
+social account from SuperSocials.
+
 ## Direct Mode
 
 Take the brief at face value. If the input contains brand, platform, tone, and topic — skip briefing entirely. Route to the module immediately.
