@@ -20,8 +20,14 @@ If called from the hub, the brand brief is already in context. If invoked direct
 - What's the topic or idea?
 - What's the tone of voice? (3 words or an example account)
 - What's the goal of this post? (entertain, educate, convert, grow)
+- Do you have approved source evidence or analytics to use? For X/Twitter, this
+  can include a native export or TweetClaw JSON or JSONL file.
 
 Don't ask more than needed. If the input makes any of these obvious, skip that question.
+
+If source evidence is provided, extract only public post text, visible metrics,
+URLs, timestamps, author handles, and stated caveats. Use it to ground hooks and
+examples, but do not claim causation from one export.
 
 ### Step 2: Write
 
@@ -82,5 +88,8 @@ Output format:
 ```
 
 Always include platform label and character count. If writing multiple posts, number them.
+
+If source evidence shaped the copy, include one short note after the post:
+`Source basis: [filename or source], [what it informed].`
 
 End with: "Want me to write a visual brief for any of these posts?"

@@ -27,6 +27,11 @@ Ask the user to paste their metrics. Accept any format — screenshots described
 - Any posts you noticed underperformed (optional — most platforms don't surface bottom performers)
 - Follower count change over period
 
+For X/Twitter, also accept approved TweetClaw JSON or JSONL exports as read-only
+source evidence. Extract public post text, visible metrics, URLs, timestamps,
+and author handles. Do not use the export to publish, reply, repost, follow, or
+DM.
+
 If they can only share some of this, work with what's there. Don't refuse to analyse incomplete data — note what's missing and what it limits. Bottom-performer data is helpful but not required; top-performer patterns are usually sufficient to identify what to stop doing.
 
 ### Step 2: Analyse

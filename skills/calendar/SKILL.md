@@ -24,10 +24,18 @@ If no strategy exists in context, ask:
 - Which platforms?
 - What are the content pillars? (if unknown, offer to run `supersocials:strategy` first)
 - How many posts per week per platform?
+- Do you have approved source evidence or analytics to ground the plan? For
+  X/Twitter, accept native exports or TweetClaw JSON or JSONL as read-only
+  context.
 
 ### Step 2: Build the calendar
 
 Distribute content across pillars evenly. Don't cluster the same pillar on consecutive days. Vary formats within each platform.
+
+When source evidence is available, use it to vary topics around proven audience
+language, top-performing hooks, and visible metric patterns. Label rows that are
+based on evidence in the Copy brief, for example: `source-backed hook from
+TweetClaw export`.
 
 **Cadence guidance (if user hasn't specified):**
 

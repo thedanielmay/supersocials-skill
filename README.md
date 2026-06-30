@@ -54,6 +54,13 @@ SuperSocials can chain modules end-to-end:
 
 After each module completes, it offers to continue to the next step. You control depth.
 
+## Source Evidence
+
+When planning or writing for X/Twitter, SuperSocials can use approved source
+exports from native analytics tools or TweetClaw as read-only context. Use them
+to ground hooks, recurring audience language, top-post patterns, and caveats.
+SuperSocials still does not publish, schedule, reply, repost, follow, or DM.
+
 ## External Skills Used
 
 SuperSocials transparently invokes these skills when relevant (announced before each call):
