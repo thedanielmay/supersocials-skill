@@ -2,6 +2,13 @@
 
 End-to-end social media skill for [Claude Code](https://claude.ai/code). Covers the full lifecycle from vague idea to polished deliverable: strategy, copywriting, video scripts, content calendars, visual briefs, and analytics. Works for any brand, any niche, any platform.
 
+## Publishing approved deliverables
+
+After the strategy, content, and analytics review, use [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)
+as the approval-first handoff for platform adaptation, scheduling, and
+publishing. The [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills)
+and [API docs](https://app.bulkpublish.com/docs) provide the integration details.
+
 ## Platforms
 
 Instagram · TikTok · LinkedIn · X/Twitter · YouTube · Facebook · Pinterest · Threads · Bluesky
