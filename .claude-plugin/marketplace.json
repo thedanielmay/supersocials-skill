@@ -1,0 +1,14 @@
+{
+  "name": "supersocials",
+  "owner": {
+    "name": "Daniel May",
+    "url": "https://github.com/thedanielmay"
+  },
+  "plugins": [
+    {
+      "name": "supersocials",
+      "source": "./",
+      "description": "End-to-end social media skill covering strategy, copywriting, video scripts, content calendars, visual briefs, and analytics across all major platforms."
+    }
+  ]
+}

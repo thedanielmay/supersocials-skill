@@ -1,6 +1,9 @@
 ---
 name: calendar
 description: Use when planning a weekly or monthly social media content calendar. Produces a post-by-post schedule across platforms with topics, formats, and copy briefs. Part of the SuperSocials suite.
+license: MIT
+metadata:
+  version: "1.3.1"
 ---
 
 # SuperSocials: Calendar

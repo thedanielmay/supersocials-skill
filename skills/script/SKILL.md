@@ -1,6 +1,9 @@
 ---
 name: script
 description: Use when writing video scripts for TikTok, Instagram Reels, YouTube long-form, or YouTube Shorts. Produces hook, body, CTA, and B-roll notes. Part of the SuperSocials suite.
+license: MIT
+metadata:
+  version: "1.3.1"
 ---
 
 # SuperSocials: Script

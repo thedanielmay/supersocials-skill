@@ -1,11 +1,14 @@
 {
   "name": "supersocials",
+  "version": "1.3.1",
   "description": "End-to-end social media skill covering strategy, copywriting, video scripts, content calendars, visual briefs, and analytics across all major platforms.",
-  "version": "1.3.0",
   "author": {
     "name": "Daniel May",
-    "email": "daniel@thedanielmay.com"
+    "url": "https://github.com/thedanielmay"
   },
+  "homepage": "https://github.com/thedanielmay/supersocials-skill",
+  "repository": "https://github.com/thedanielmay/supersocials-skill",
+  "license": "MIT",
   "keywords": [
     "social media",
     "marketing",

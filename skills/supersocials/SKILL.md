@@ -1,6 +1,9 @@
 ---
 name: supersocials
 description: Use when the user wants help with any aspect of social media — strategy, content writing, video scripts, content calendars, visual briefs, analytics interpretation, or campaign planning. Triggers on mentions of Instagram, TikTok, LinkedIn, X, Twitter, YouTube, Facebook, Pinterest, Threads, Bluesky, social media, content marketing, or posting.
+license: MIT
+metadata:
+  version: "1.3.1"
 ---
 
 # SuperSocials

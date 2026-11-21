@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.3.1",
   "organization": "Social Media",
   "date": "May 2026",
   "abstract": "Builds weekly or monthly content calendars as markdown tables. Cadence is tailored to account stage and production capacity — not generic defaults. Can chain to write or script each post."

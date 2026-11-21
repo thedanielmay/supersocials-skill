@@ -20,9 +20,19 @@ Instagram · TikTok · LinkedIn · X/Twitter · YouTube · Facebook · Pinterest
 
 ## Install
 
+Install as a plugin:
+
 ```
-/plugin install supersocials@thedanielmay
+/plugin install supersocials --marketplace thedanielmay/supersocials-skill
 ```
+
+Or link the folder into your skills directory:
+
+```
+ln -s /path/to/supersocials-skill/skills/supersocials ~/.claude/skills/supersocials
+```
+
+The six module skills (`strategy`, `write`, `script`, `calendar`, `brief`, `analyse`) sit beside it under `skills/`.
 
 ## Usage
 
@@ -67,4 +77,4 @@ SuperSocials transparently invokes these skills when relevant (announced before 
 
 ## Author
 
-Daniel May — [daniel@thedanielmay.com](mailto:daniel@thedanielmay.com)
+Daniel May ([github.com/thedanielmay](https://github.com/thedanielmay))
