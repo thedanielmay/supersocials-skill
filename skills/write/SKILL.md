@@ -3,7 +3,7 @@ name: write
 description: Use when writing social media copy — captions, posts, threads, hooks, CTAs, carousel copy, or any written format for Instagram, TikTok, LinkedIn, X, Facebook, Pinterest, Threads, or Bluesky. Part of the SuperSocials suite.
 license: MIT
 metadata:
-  version: "1.3.1"
+  version: "1.3.2"
 ---
 
 # SuperSocials: Write

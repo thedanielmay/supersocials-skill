@@ -3,7 +3,7 @@ name: brief
 description: Use when creating a visual or creative brief for a social media asset — for handing off to a designer or prompting an image AI tool. Covers mood, colour, composition, references, and guardrails. Part of the SuperSocials suite.
 license: MIT
 metadata:
-  version: "1.3.1"
+  version: "1.3.2"
 ---
 
 # SuperSocials: Brief
