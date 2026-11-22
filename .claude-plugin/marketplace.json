@@ -10,5 +10,8 @@
       "source": "./",
       "description": "End-to-end social media skill covering strategy, copywriting, video scripts, content calendars, visual briefs, and analytics across all major platforms."
     }
-  ]
+  ],
+  "metadata": {
+    "description": "End-to-end social media skill covering strategy, copywriting, video scripts, content calendars, visual briefs, and analytics across all major platforms."
+  }
 }

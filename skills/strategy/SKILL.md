@@ -3,7 +3,7 @@ name: strategy
 description: Use when planning a social media campaign, defining content pillars, choosing which platforms to focus on, or setting posting cadence. Part of the SuperSocials suite.
 license: MIT
 metadata:
-  version: "1.3.1"
+  version: "1.3.2"
 ---
 
 # SuperSocials: Strategy

@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "organization": "Social Media",
   "date": "May 2026",
   "abstract": "Writes platform-native social media copy: Instagram captions, LinkedIn long-form, X threads, TikTok captions, Pinterest descriptions, and more. Runs humanize then elements-of-style with platform-aware conflict resolution."

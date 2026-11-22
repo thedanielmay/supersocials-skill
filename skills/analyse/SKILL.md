@@ -3,7 +3,7 @@ name: analyse
 description: Use when interpreting social media metrics — reach, engagement rate, follower growth, top/bottom posts. Produces strategic insight and concrete next actions. Part of the SuperSocials suite.
 license: MIT
 metadata:
-  version: "1.3.1"
+  version: "1.3.2"
 ---
 
 # SuperSocials: Analyse
